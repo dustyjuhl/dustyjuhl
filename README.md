@@ -27,6 +27,11 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 
 ---
 
+## User Experience testing
+- **Platforms**: Prolific, Testlio, Userbrain, UserCrowd, UserTesting, uTest
+
+---
+
 ## 🤝 DSMTech Community
 - [Upcoming Events](https://dsmwebcollective.com/events/)
 - [User Groups](https://dsmwebcollective.com/user-groups/)
@@ -34,7 +39,6 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 ---
 
 ## 🌱 Currently Learning
-- 🧪 Experimenting with [UiPath](https://www.uipath.com/) as an automation solution for an old school COBOL application.
 - 🧠 Exploring **AI coding assistants** and **AI-driven automation tools**.
 
 ---
@@ -43,8 +47,7 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 I'm currently reading/listening to the following:
 - Inspired by Marty Cagan
 - Dynamic Reteaming by Heidi Helfand
-- The Dichotomy of Leadership by Jocko Willink and Leif Babin
-- The Culture Code by Daniel Coyle
+- The Fearless Organization by Amy Edmondson
 
 ---
 
@@ -56,8 +59,9 @@ I'm currently reading/listening to the following:
 ---
 
 ## 🏆 Fun Facts
-- 🛠️ Passionate about turning "QA messes" into structured, reliable systems.
-- 🪂 I've completed five solo, free fall parachute jumps.
+- 🛠️ I'm passionate about helping teams build high-quality software, focusing on fast feedback, frequent releases, and defect prevention over defect detection.
+- 🎓 I’m a strong proponent of Continuous Learning. I’m a member of several user groups across the U.S. I help promote local tech groups and events in my community.
+- 🪂 I've completed five solo, free-fall parachute jumps.
 - 🛩️ I'm an avid airshow photographer. 📷 I'd like to turn my hobby into a side gig someday.
 
 ---
