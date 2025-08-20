@@ -27,9 +27,9 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 
 ---
 
-## User Experience testing
+## 🖼️ User Experience testing
 - **Platforms**: Prolific, Testlio, Userbrain, UserCrowd, UserTesting, uTest
-
+- **Apps/Websites**: Ameriprise, Angel Studios, Audible, Charles Schwab, Crocs, Florida Blue, Ford, GoDaddy, Google, Hy-Vee, IKEA, McDonald's, Nationwide, NFL, Sheetz, Tesla, USAA, USAFacts
 ---
 
 ## 🤝 DSMTech Community
