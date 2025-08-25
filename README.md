@@ -29,7 +29,7 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 
 ## 🖼️ User Experience testing
 - **Platforms**: [Prolific](https://www.prolific.com/participants), [Testlio](https://testlio.com/work/freelancer/), [Userbrain](https://tester.userbrain.com/), [UserCrowd](https://www.usercrowd.com/), [UserTesting](https://www.usertesting.com/get-paid-to-test), [uTest](https://www.utest.com/)
-- **Apps/Websites**: Ameriprise, Angel Studios, Audible, Charles Schwab, Crocs, Florida Blue, Ford, GoDaddy, Google Bard/Gemini, Google Chrome, Hy-Vee, IKEA, McDonald's, Nationwide, NFL, Sheetz, Tesla, USAA, USAFacts
+- **Apps/Websites**: [Ameriprise](https://www.ameriprise.com/), Angel Studios, Audible, Charles Schwab, [Cody](https://meetcody.ai/), Crocs, Florida Blue, Ford, GoDaddy, Google Bard/Gemini, Google Chrome, Hy-Vee, IKEA, McDonald's, [Nationwide](https://www.nationwide.com/), NFL, [Perplexity](https://www.perplexity.ai/), Sheetz, Tesla, USAA, USAFacts
 ---
 
 ## 🤝 DSMTech Community
