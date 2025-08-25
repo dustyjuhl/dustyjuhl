@@ -13,23 +13,23 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
   - Organize an internal Quality Community of Practice to hold collaborative sessions, share knowledge, and provide transparency regarding Agile quality practices.
   - Volunteer as a technology mentor at [Tech Camp](https://www.techjourney.org/tech-camp/) *"to inspire youth to increase their knowledge and interest in technology."*
 - 📈 **Key Achievements**:
-  - Organized a local quality assurance user group for multiple years, where I was responsible for event management/promotion, sponsorships, social media, website management, and financial reporting.
-  - Delivered multiple presentations for the Quality Community of Practice.
+  - Organized a local quality assurance user group, where I was responsible for event management/promotion, sponsorships, social media, website management, and financial reporting.
+  - Delivered multiple presentations for the Quality Community of Practice at [Sammons Financial Group](https://www.sammonsfinancialgroup.com/).
   - Developed a Quality Playbook to guide other software testers regarding the principles and planning of testing in a software development project.
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages**: HTML, CSS, JavaScript
-- **Tools**: Azure DevOps, GitHub, Lightroom, Postman, Power BI, Swagger, VS Code
-- **Cloud**: Azure
-- **Databases**: MySQL, SQL Server
+- **Tools**: [Azure DevOpshttps://azure.microsoft.com/en-in/products/devops/], [GitHub](https://github.com/), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html), [Postman](https://www.postman.com/), [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/), [Swagger](https://swagger.io/), [VS Code](https://code.visualstudio.com/)
+- **Cloud**: [Azure](https://azure.microsoft.com/en-us/)
+- **Databases**: [MySQL](https://www.mysql.com/), [SQL Server](https://www.microsoft.com/en-in/sql-server/sql-server-2022)
 
 ---
 
 ## 🖼️ User Experience testing
 - **Platforms**: [Prolific](https://www.prolific.com/participants), [Testlio](https://testlio.com/work/freelancer/), [Userbrain](https://tester.userbrain.com/), [UserCrowd](https://www.usercrowd.com/), [UserTesting](https://www.usertesting.com/get-paid-to-test), [uTest](https://www.utest.com/)
-- **Apps/Websites**: Ameriprise, Angel Studios, Audible, Charles Schwab, Crocs, Florida Blue, Ford, GoDaddy, Google, Hy-Vee, IKEA, McDonald's, Nationwide, NFL, Sheetz, Tesla, USAA, USAFacts
+- **Apps/Websites**: Ameriprise, Angel Studios, Audible, Charles Schwab, Crocs, Florida Blue, Ford, GoDaddy, Google Bard/Gemini, Google Chrome, Hy-Vee, IKEA, McDonald's, Nationwide, NFL, Sheetz, Tesla, USAA, USAFacts
 ---
 
 ## 🤝 DSMTech Community
