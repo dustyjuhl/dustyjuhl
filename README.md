@@ -7,7 +7,7 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 
 ## 🚀 About Me
 - 🌟 **Roles**: Business Analyst | QA Analyst 
-- 🛠️ **Expertise**: Web and Mobile Application testing, and User Experience testing
+- 🛠️ **Expertise**: Web/Mobile Application testing and User Experience testing
 - 🔧 **Focus Areas**:
   - Developing a Career Development playbook to drive consistency and better enable leaders to identify future skill gaps and provide development solutions/opportunities for employees.
   - Organize an internal Quality Community of Practice to hold collaborative sessions, share knowledge, and provide transparency regarding Agile quality practices.
