@@ -21,7 +21,7 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 
 ## 🛠️ Tech Stack
 - **Languages**: HTML, CSS, JavaScript
-- **Tools**: [Azure DevOpshttps://azure.microsoft.com/en-in/products/devops/], [GitHub](https://github.com/), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html), [Postman](https://www.postman.com/), [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/), [Swagger](https://swagger.io/), [VS Code](https://code.visualstudio.com/)
+- **Tools**: [Azure DevOps](https://azure.microsoft.com/en-in/products/devops/), [GitHub](https://github.com/), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html), [Postman](https://www.postman.com/), [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/), [Swagger](https://swagger.io/), [VS Code](https://code.visualstudio.com/)
 - **Cloud**: [Azure](https://azure.microsoft.com/en-us/)
 - **Databases**: [MySQL](https://www.mysql.com/), [SQL Server](https://www.microsoft.com/en-in/sql-server/sql-server-2022)
 
