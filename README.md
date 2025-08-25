@@ -21,7 +21,7 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 
 ## 🛠️ Tech Stack
 - **Languages**: HTML, CSS, JavaScript
-- **Tools**: Azure DevOps, GitHub, Lightroom, Postman, Power BI, Swagger, UiPath, VS Code
+- **Tools**: Azure DevOps, GitHub, Lightroom, Postman, Power BI, Swagger, VS Code
 - **Cloud**: Azure
 - **Databases**: MySQL, SQL Server
 
