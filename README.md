@@ -33,6 +33,7 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 ---
 
 ## 🤝 DSMTech Community
+- [Book Club](https://www.linkedin.com/company/dsmtech-book-club/)
 - [Upcoming Events](https://dsmwebcollective.com/events/)
 - [User Groups](https://dsmwebcollective.com/user-groups/)
 
