@@ -45,9 +45,9 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 
 ## 📖 Books/Audiobooks 🎧 
 I'm currently reading/listening to the following:
-- Inspired by Marty Cagan
-- Dynamic Reteaming by Heidi Helfand
-- The Fearless Organization by Amy Edmondson
+- [Inspired](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan
+- [Dynamic Reteaming](https://www.goodreads.com/book/show/51771833-dynamic-reteaming) by Heidi Helfand
+- [Late Bloomers](https://www.goodreads.com/book/show/40597806-late-bloomers)) by Rich Karlgaard
 
 ---
 
