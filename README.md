@@ -48,7 +48,8 @@ I strive to foster a dynamic learning culture that empowers individuals to thriv
 I'm currently reading/listening to the following:
 - [Inspired](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan
 - [Dynamic Reteaming](https://www.goodreads.com/book/show/51771833-dynamic-reteaming) by Heidi Helfand
-- [Late Bloomers](https://www.goodreads.com/book/show/40597806-late-bloomers)) by Rich Karlgaard
+- [The End of Average](https://www.goodreads.com/book/show/24186666-the-end-of-average) by Todd Rose
+- [Turn the Ship Around!](https://www.goodreads.com/book/show/16158601-turn-the-ship-around) by L. David Marquet
 
 ---
 
