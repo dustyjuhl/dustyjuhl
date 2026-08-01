@@ -71,7 +71,6 @@ I'm currently reading/listening to the following:
 ## 💰 Affiliate Links
 - [Become an Awesome Podcast Guest](https://podcastify.me/awesome?ref=76)
 - [Get a Chase Sapphire card, get bonus points](https://www.referyourchasecard.com/19o/WOO1KGXH23)
-<!-- - [Cursor]() -->
 - [Boost your career with edX](https://edx.sjv.io/c/1325234/1876740/17728)
 - [Save money when you shop with Ibotta](https://ibotta.onelink.me/iUfE/8cc13c64?friend_code=ohtjona)
 - [10% Cash Back at Rakuten](http://www.rakuten.com/r/DUSTYJ143)
