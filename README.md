@@ -69,6 +69,7 @@ I'm currently reading/listening to the following:
 ---
 
 ## 💰 Affiliate Links
+- [Get a $100 when you open a new Ally bank account](https://ally.com/referral?code=5J3Q5X4J5X)
 - [Become an Awesome Podcast Guest](https://podcastify.me/awesome?ref=76)
 - [Get a Chase Sapphire card, get bonus points](https://www.referyourchasecard.com/19o/WOO1KGXH23)
 - [Boost your career with edX](https://edx.sjv.io/c/1325234/1876740/17728)
