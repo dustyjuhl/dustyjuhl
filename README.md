@@ -49,7 +49,7 @@ I'm currently reading/listening to the following:
 - [Inspired](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan
 - [Dynamic Reteaming](https://www.goodreads.com/book/show/51771833-dynamic-reteaming) by Heidi Helfand
 - [Lead Without Blame](https://www.goodreads.com/book/show/60461579-lead-without-blame) by Diana Larsen and Tricia Broderick
-- [Fighter Pilot](https://www.goodreads.com/book/show/9708371-fighter-pilot) by Robin Olds
+- [Freakonomics](https://www.goodreads.com/book/show/1202.Freakonomics) by Steven D. Levitt and Stephen J. Dubner
 
 ---
 
@@ -70,6 +70,7 @@ I'm currently reading/listening to the following:
 
 ## 💰 Affiliate Links
 - [Get a $100 when you open a new Ally bank account](https://ally.com/referral?code=5J3Q5X4J5X)
+- [Get $5 to use toward any audiobook on Audible when you sign up](https://www.audible.com/ep/invited?source_code=AUDOR1510205264236&referralCode=2BSKL44DARKZ)
 - [Become an Awesome Podcast Guest](https://podcastify.me/awesome?ref=76)
 - [Get a Chase Sapphire card, get bonus points](https://www.referyourchasecard.com/19o/WOO1KGXH23)
 - [Boost your career with edX](https://edx.sjv.io/c/1325234/1876740/17728)
