@@ -78,6 +78,7 @@ I'm currently reading/listening to the following:
 - [Take control of your data with Optery](https://get.optery.com/3nmb72ni2fsl)
 - [10% Cash Back at Rakuten](http://www.rakuten.com/r/DUSTYJ143)
 - [Get a $10 credit at Sticker Mule](https://www.stickermule.com/unlock?ref_id=6464002701&utm_medium=social&utm_source=invite)
+- [Get fast internet and a $50 virtual Prepaid Mastercard with T-Mobile](https://share-fiber.t-mobile.com/168774320060144!7643f7687e!a)
 - [Save money on food and gas with Upside](https://upside.app.link/DUSTY2743)
 - [Become a research participant with Wynter, make extra income](https://wynterincc0c03.referralrock.com/l/DUSTY74/)
 
