@@ -75,6 +75,7 @@ I'm currently reading/listening to the following:
 - [Get a Chase Sapphire card, get bonus points](https://www.referyourchasecard.com/19o/WOO1KGXH23)
 - [Boost your career with edX](https://edx.sjv.io/c/1325234/1876740/17728)
 - [Save money when you shop with Ibotta](https://ibotta.onelink.me/iUfE/8cc13c64?friend_code=ohtjona)
+- [Take control of your data with Optery](https://get.optery.com/3nmb72ni2fsl)
 - [10% Cash Back at Rakuten](http://www.rakuten.com/r/DUSTYJ143)
 - [Get a $10 credit at Sticker Mule](https://www.stickermule.com/unlock?ref_id=6464002701&utm_medium=social&utm_source=invite)
 - [Save money on food and gas with Upside](https://upside.app.link/DUSTY2743)
